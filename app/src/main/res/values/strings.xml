@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basic Math Quiz</string>
+    <string name="problem_header">Test Your Knowledge With This Basic Math Quiz!</string>
+    <string name="problems_attempt">Problems Attempted: 0</string>
+    <string name="questions_wrong">Questions Wrong: 0</string>
+    <string name="addition">Add</string>
+    <string name="subtraction">Subtract</string>
+    <string name="multiplication">Multiply</string>
+    <string name="division">Divide</string>
+    <string name="problem_main">Select A Problem</string>
+    <string name="trueValue">True</string>
+    <string name="falseValue">False</string>
+    <string name="answer_result"> </string>
+</resources>
